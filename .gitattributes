@@ -1,0 +1,2 @@
+archive/*.csv filter=lfs diff=lfs merge=lfs -text
+archive/*-ubyte filter=lfs diff=lfs merge=lfs -text
