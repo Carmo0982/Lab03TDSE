@@ -126,6 +126,8 @@ Due to insufficient permissions on AWS SageMaker, automated deployment to a live
 
 **Evidence of SageMaker Integration:**
 
+![Notebooks en SageMaker](<img/Screenshot 2026-02-10 204326.png>)
+
 For local deployment, the trained model is saved as `fashion_mnist_cnn_custom.h5` and can be loaded using:
 
 ```python
@@ -175,7 +177,7 @@ Performance metrics include:
 
 ## License
 
-This project is developed as part of an academic course (TDSE - Octavo Semestre) and is intended for educational purposes.
+This project is developed as part of an academic course (TDS) and is intended for educational purposes.
 
 ## Acknowledgments
 
